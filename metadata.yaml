@@ -1,0 +1,7 @@
+name: live-dashboard-shot
+display_name: Live-Dashboard 截图
+author: yayawuwuwu
+version: "1.0.0"
+desc: 分设备截取 Live-Dashboard 实时状态并发送到群聊
+short_desc: 截取 Live-Dashboard 设备状态并发送图片到群聊
+astrbot_version: ">=4.0"
