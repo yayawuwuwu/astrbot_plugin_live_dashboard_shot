@@ -6,7 +6,7 @@
 **支持通过 AstrBot 插件商店一键安装。**
 
 > 💡 **为什么做这个插件？**  
-> 原本的 [Live Dashboard 插件](https://github.com/DBJD-CRC/astrbot_plugin_live_dashboard) 只能返回文字状态信息，不支持图片发送。为了让群友更直观地看到设备实时截图，我做了这个能分设备截图并发送图片的插件。
+> 原本的 [Live Dashboard 插件](https://github.com/DBJD-CR/astrbot_plugin_live_dashboard) 只能返回文字状态信息，不支持图片发送。为了让群友更直观地看到设备实时截图，我做了这个能分设备截图并发送图片的插件。
 
 ---
 
