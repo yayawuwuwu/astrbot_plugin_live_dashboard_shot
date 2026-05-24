@@ -1,29 +1,29 @@
 {
-    "dashboard_url": {
-        "type": "string",
-        "description": "仪表盘访问地址",
-        "hint": "例如 http://172.17.0.1:7283",
-        "default": "http://172.17.0.1:7283"
-    },
-    "device_names": {
-        "type": "text",
-        "description": "设备名称列表（每行一个）",
-        "hint": "必须与仪表盘页面上的文字完全一致",
-        "default": "芽芽的拯救者y7000\n芽芽的一加ace5至尊版"
-    },
-    "viewport_width": {
-        "type": "int",
-        "description": "截图视口宽度",
-        "default": 600
-    },
-    "viewport_height": {
-        "type": "int",
-        "description": "截图视口高度",
-        "default": 1000
-    },
-    "device_scale_factor": {
-        "type": "int",
-        "description": "清晰度（2=Retina高清）",
-        "default": 2
-    }
+  "dashboard_url": {
+    "type": "string",
+    "description": "仪表盘访问地址",
+    "hint": "例如 http://172.17.0.1:7283",
+    "default": "http://172.17.0.1:7283"
+  },
+  "device_names": {
+    "type": "text",
+    "description": "设备名称列表（每行一个）",
+    "hint": "必须与仪表盘页面上的文字完全一致",
+    "default": "芽芽的拯救者y7000\n芽芽的一加ace5至尊版"
+  },
+  "viewport_width": {
+    "type": "int",
+    "description": "截图视口宽度",
+    "default": 600
+  },
+  "viewport_height": {
+    "type": "int",
+    "description": "截图视口高度",
+    "default": 1000
+  },
+  "device_scale_factor": {
+    "type": "int",
+    "description": "清晰度（2=Retina高清）",
+    "default": 2
+  }
 }
