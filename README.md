@@ -79,7 +79,7 @@ playwright install-deps chromium   # 如果容器内缺少系统库
 
 > 设备名称必须与 Live-Dashboard 页面左侧列表中的文字完全一致。
 
-二.如设置不生效，需要=需要修改 main.py 中的几个变量，以匹配你的实际环境：
+二.如设置不生效,需要修改 main.py 中的几个变量，以匹配你的实际环境：
 
 · url：你的 Live-Dashboard 访问地址，例如 "http://172.17.0.1:7283"（AstrBot 容器内请用宿主机内网 IP）
 · device_names：仪表盘上需要截图的设备显示名称，必须与页面文本完全一致，例如 ["芽芽的拯救者y7000", "芽芽的一加ace5至尊版"]
