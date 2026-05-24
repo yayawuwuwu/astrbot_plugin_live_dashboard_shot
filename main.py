@@ -5,7 +5,7 @@ from astrbot.api.star import Context, Star, register
 from astrbot.api import logger
 from astrbot.api import AstrBotConfig
 
-@register("live-dashboard-shot", "yayawuwuwu", "对 Live-Dashboard 分设备截图", "1.0.0")
+@register("live_dashboard_shot", "yayawuwuwu", "对 Live-Dashboard 分设备截图", "1.0.0")
 class LiveDashboardShot(Star):
     def __init__(self, context: Context, config: AstrBotConfig):
         super().__init__(context)
